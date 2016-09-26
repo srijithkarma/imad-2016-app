@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Article Two | Srijith Nair
+            <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        </title>
+    </head>
+    <body>
+        <div>
+            <a href="/">Home</a>
+        </div>
+        <hr/>
+        <h3>
+            Article One
+        </h3>
+        <div>
+            26 Sep 2016
+        </div>
+        <p>
+            This is the content of my second article.
+        </p>
+    </body>
+</html>
