@@ -4,3 +4,10 @@ console.log('Loaded!');
 var element = document.getElementById('main-text');
 
 element.innerHTML = "Content Ch due to execution of main.js";
+
+//Now lets move the image
+var img = document.getElementById('img');
+img.onclick = function () {
+    img.style.margingLeft = '100px';
+    //This line changes the css from javascipt.
+};
